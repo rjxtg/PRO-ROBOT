@@ -304,7 +304,7 @@ async def start(client, message):
                       InlineKeyboardButton('Gʀᴏᴜᴘ', url=GRP_LNK),
                       InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                    ],[
-                      InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/ rjmallu")
+                      InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/rjmallu")
                      ]
                     ]
                 )
@@ -358,7 +358,7 @@ async def start(client, message):
               InlineKeyboardButton(' Gʀᴏᴜᴘ', url=GRP_LNK),
               InlineKeyboardButton(' Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
            ],[
-              InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/ rjmallu")
+              InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/rjmallu")
              ]
             ]
         )
